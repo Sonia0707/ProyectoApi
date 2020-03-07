@@ -38,7 +38,7 @@ public class LoginAdmin extends javax.swing.JFrame {
         initComponents();
         this.setLocationRelativeTo(null);
         this.getContentPane().setBackground(Color.CYAN);
-        
+        int variable;//Por ejemplo...
         
     }
 
